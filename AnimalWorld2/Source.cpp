@@ -89,6 +89,7 @@ public:
 		c->Eat(h);
 	}
 };
+
 int main() {
 	Continent* a = new Africa();
 	AnimalWorld* a1 = new AnimalWorld(a);
